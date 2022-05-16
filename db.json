@@ -2,21 +2,21 @@
   "posts": [
     {
       "id": "00100A",
-      "album":1,
+      "album": "1",
       "image_title": "Leader Image 1",
       "image_type": "jpg",
       "imgsrc": "https://techmonitor.ai/wp-content/uploads/sites/4/2022/04/GettyImages-1299055072-2048x1366.jpg"
     },
     {
       "id": "00100B",
-      "album":2,
+      "album": "2",
       "image_title": "Public Image 1",
       "image_type": "jpg",
       "imgsrc": "https://techmonitor.ai/wp-content/uploads/sites/4/2022/04/GettyImages-1299055072-2048x1366.jpg"
     },
     {
       "id": "00100C",
-      "album":2,
+      "album": "2",
       "image_title": "Public Image 2",
       "image_type": "jpg",
       "imgsrc": "https://techmonitor.ai/wp-content/uploads/sites/4/2022/04/GettyImages-1299055072-2048x1366.jpg"
